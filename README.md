@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I'm just an ordinary kid<br>🤑 I'm a junior frontend developer<br>⚡ I'm a beginner pentester<br>🐞 I'm a bug hunter<br>
+📖 I'm just an ordinary kid<br>🤑 I'm junior frontend developer<br>⚡ I'm beginner pentester<br>🐞 I'm bug hunter<br>
 
 
 ## 🌐 Socials:
