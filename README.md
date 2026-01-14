@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ffzan_zann)
-[![TryHackMe](https://img.shields.io/badge/Bug%20Bounty-TryHackMe-red?logo=bugcrowd&logoColor=white)(https://tryhackme.com/p/zoxxtzy)
+[![TryHackMe](https://img.shields.io/badge/Bug%20Bounty-TryHackMe-red?logo=bugcrowd&logoColor=white)](https://tryhackme.com/p/zoxxtzy)
 [![Bug Bounty OBB](https://img.shields.io/badge/Bug%20Bounty-OpenBugBounty-black?logo=security&logoColor=white)](https://www.openbugbounty.org/researchers/zoxxtzy/)
 
 # 💻 Tech Stack:
