@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlobm5oZXJicmZ0c3Nkd2YzMmUzeHYxa3d2dGJ2Z2JpZDVzOW9yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width=200 heigth=150/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlobm5oZXJicmZ0c3Nkd2YzMmUzeHYxa3d2dGJ2Z2JpZDVzOW9yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width=600 heigth=450/>
 📖 I'm just an ordinary kid<br>🤑 I'm junior frontend developer<br>⚡ I'm beginner pentester<br>🐞 I'm bug hunter<br>
 
 
